@@ -17,6 +17,8 @@ I build scalable, governed data platforms and analytics that turn complex operat
 
 > Highlights: Improved audit readiness and trust in downstream systems with robust controls.
 
+👉 [View full project repository](https://github.com/AndiswaMatai/rmb-global-markets-data-platform)
+
 ---
 
 ## Ison Xperiences — Senior Data Engineer (2024–2025)
