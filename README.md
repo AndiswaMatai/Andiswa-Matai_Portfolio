@@ -43,6 +43,9 @@ I build scalable, governed data platforms and analytics that turn complex operat
 - Developed budget forecasting & scenario models; reduced audit prep time by 35%.
 - Tech: SQL, Python, Power BI, Azure
 
+  👉 [View full project repository](https://github.com/AndiswaMatai/national-treasury-analytics)
+
+
 ---
 
 ## Arena Holdings — Business Intelligence Analyst (2022–2023)
