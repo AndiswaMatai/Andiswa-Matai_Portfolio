@@ -89,6 +89,9 @@ I build scalable, governed data platforms and analytics that turn complex operat
 - BigQuery cost optimization notes → `/projects/ison/bigquery-optimizations.md`
 - Advertising performance model notebook → `/projects/arena/ads-performance.ipynb`
 
+  👉 [View full project repository](https://github.com/AndiswaMatai/guud-mobility-bi)
+
+
 ---
 
 ## Contact
