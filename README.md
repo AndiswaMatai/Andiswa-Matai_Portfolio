@@ -57,6 +57,8 @@ I build scalable, governed data platforms and analytics that turn complex operat
 - Developed churn models and subscription funnel dashboards (12% loss reduction).
 - Tech: Power BI, SQL, GA360, Salesforce
 
+  👉 [View full project repository](https://github.com/AndiswaMatai/arena-advertising-analytics)
+
 ---
 
 ## GUUD Mobility — Business Intelligence Analyst (2021)
